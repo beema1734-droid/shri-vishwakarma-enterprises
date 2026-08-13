@@ -980,8 +980,7 @@
                     </p>
 
                     <span class="map-note">
-                        Replace the map link with your exact shop
-                        location when available.
+                        https://maps.app.goo.gl/bXUXpBcn6orD1tUE6
                     </span>
 
                 </div>
@@ -993,11 +992,9 @@
                     CURRENT PLACEHOLDER:
                     This searches for the shop address.
 
-                    Replace the href below with your exact
-                    Google Maps link later.
                 -->
 
-                <a href="https://www.google.com/maps/search/?api=1&query=Market+Road+Jharkheda+Sehore+Madhya+Pradesh+India"
+                <a href="https://maps.app.goo.gl/bXUXpBcn6orD1tUE6"
                    class="btn btn-primary map-button"
                    target="_blank"
                    rel="noopener noreferrer">
