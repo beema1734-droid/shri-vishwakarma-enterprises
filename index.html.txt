@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Shri Vishwakarma Enterprises | Electronics, Stationery & Sports Materials</title>
+
+    <meta name="description"
+          content="Shri Vishwakarma Enterprises in Jharkheda, Sehore, M.P. — Electronics, home appliances, stationery and sports materials. Finance facility and No Cost EMI available.">
+
+    <meta name="keywords"
+          content="Shri Vishwakarma Enterprises, electronics shop Jharkheda, home appliances Sehore, stationery Jharkheda, sports materials Jharkheda, electronics shop Sehore">
+
+    <meta name="author" content="Shri Vishwakarma Enterprises">
+
+    <!-- Open Graph / Social Media -->
+    <meta property="og:title"
+          content="Shri Vishwakarma Enterprises">
+
+    <meta property="og:description"
+          content="Electronics • Home Appliances • Stationery • Sports Materials">
+
+    <meta property="og:type" content="website">
+
+    <meta property="og:url" content="">
+
+    <!-- Favicon Placeholder -->
+    <link rel="icon"
+          href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='20' fill='%230b1220'/%3E%3Ctext x='50' y='65' text-anchor='middle' font-size='55' fill='%23f4b942'%3ESV%3C/text%3E%3C/svg%3E">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@500;600;700;800&display=swap"
+          rel="stylesheet">
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- =========================
+     NAVIGATION
+========================= -->
+
+<header class="site-header">
+
+    <nav class="navbar">
+
+        <a href="#home" class="brand">
+            <span class="brand-logo">SV</span>
+
+            <span class="brand-text">
+                <strong>Shri Vishwakarma</strong>
+                <small>Enterprises</small>
+            </span>
+        </a>
+
+        <button class="menu-toggle"
+                id="menuToggle"
+                aria-label="Open navigation menu"
+                aria-expanded="false">
+
+            <i class="fa-solid fa-bars"></i>
+
+        </button>
+
+        <div class="nav-menu" id="navMenu">
+
+            <a href="#home" class="nav-link active">Home</a>
+
+            <a href="#products" class="nav-link">Products</a>
+
+            <a href="#offers" class="nav-link">Offers</a>
+
+            <a href="#about" class="nav-link">About Us</a>
+
+            <a href="#contact" class="nav-link">Contact</a>
+
+            <a href="https://wa.me/919893602253"
+               class="nav-whatsapp"
+               target="_blank"
+               rel="noopener noreferrer">
+
+                <i class="fa-brands fa-whatsapp"></i>
+                WhatsApp
+
+            </a>
+
+        </div>
+
+    </nav>
+
+</header>
+
+
+<main>
+
+<!-- =========================
+     HERO
+========================= -->
+
+<section class="hero" id="home">
+
+    <div class="hero-overlay"></div>
+
+    <div class="container hero-content">
+
+        <div class="hero-badge">
+            <i class="fa-solid fa-store"></i>
+            Your Local Shopping Destination
+        </div>
+
+        <h1>
+            Shri Vishwakarma
+            <span>Enterprises</span>
+        </h1>
+
+        <p class="hero-subtitle">
+            Electronics <span>•</span>
+            Stationery <span>•</span>
+            Sports Materials
+        </p>
+
+        <p class="hero-description">
+            Discover electronics, home appliances, stationery products
+            and sports materials at Shri Vishwakarma Enterprises.
+            Visit our shop for product options, helpful guidance,
+            finance facility and convenient shopping.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a href="#products" class="btn btn-primary">
+                <i class="fa-solid fa-grid-2"></i>
+                Explore Products
+            </a>
+
+            <a href="https://wa.me/919893602253"
+               class="btn btn-whatsapp"
+               target="_blank"
+               rel="noopener noreferrer">
+
+                <i class="fa-brands fa-whatsapp"></i>
+                WhatsApp Us
+            </a>
+
+            <a href="tel:+919893602253" class="btn btn-outline">
+                <i class="fa-solid fa-phone"></i>
+                Call Now
+            </a>
+
+        </div>
+
+        <div class="hero-info">
+
+            <div>
+                <i class="fa-solid fa-location-dot"></i>
+                Jharkheda, Sehore, M.P.
+            </div>
+
+            <div>
+                <i class="fa-solid fa-credit-card"></i>
+                Finance Facility Available
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     CATEGORIES
+========================= -->
+
+<section class="section products-section" id="products">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="section-label">
+                WHAT WE OFFER
+            </span>
+
+            <h2>
+                Explore Our <span>Products</span>
+            </h2>
+
+            <p>
+                Browse our main product categories. Product availability
+                may vary, so please contact us for current stock.
+            </p>
+
+        </div>
+
+
+        <div class="category-grid">
+
+
+            <!-- Electronics -->
+
+            <article class="category-card">
+
+                <div class="category-image electronics-image">
+
+                    <div class="image-icon">
+                        <i class="fa-solid fa-tv"></i>
+                    </div>
+
+                    <span class="image-label">
+                        Electronics & Appliances
+                    </span>
+
+                </div>
+
+                <div class="category-content">
+
+                    <div class="category-icon">
+                        <i class="fa-solid fa-plug"></i>
+                    </div>
+
+                    <h3>
+                        Electronics & Home Appliances
+                    </h3>
+
+                    <p>
+                        Explore a variety of electronics and home
+                        appliances for everyday needs.
+                    </p>
+
+                    <ul>
+                        <li>LED TVs</li>
+                        <li>Refrigerators</li>
+                        <li>Washing Machines</li>
+                        <li>Coolers</li>
+                        <li>Air Conditioners</li>
+                        <li>Fans</li>
+                        <li>Kitchen Appliances</li>
+                        <li>Home Appliances</li>
+                        <li>Other Electronics</li>
+                    </ul>
+
+                    <a href="#contact" class="category-link">
+                        Ask About Products
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </a>
+
+                </div>
+
+            </article>
+
+
+            <!-- Stationery -->
+
+            <article class="category-card">
+
+                <div class="category-image stationery-image">
+
+                    <div class="image-icon">
+                        <i class="fa-solid fa-pen-ruler"></i>
+                    </div>
+
+                    <span class="image-label">
+                        Stationery
+                    </span>
+
+                </div>
+
+                <div class="category-content">
+
+                    <div class="category-icon">
+                        <i class="fa-solid fa-pencil"></i>
+                    </div>
+
+                    <h3>
+                        Stationery
+                    </h3>
+
+                    <p>
+                        School, office and creative stationery products
+                        for everyday requirements.
+                    </p>
+
+                    <ul>
+                        <li>Notebooks</li>
+                        <li>Pens</li>
+                        <li>Pencils</li>
+                        <li>School Supplies</li>
+                        <li>Office Supplies</li>
+                        <li>Art & Craft Items</li>
+                        <li>Files & Folders</li>
+                        <li>Other Stationery</li>
+                    </ul>
+
+                    <a href="#contact" class="category-link">
+                        Ask About Products
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </a>
+
+                </div>
+
+            </article>
+
+
+            <!-- Sports -->
+
+            <article class="category-card">
+
+                <div class="category-image sports-image">
+
+                    <div class="image-icon">
+                        <i class="fa-solid fa-futbol"></i>
+                    </div>
+
+                    <span class="image-label">
+                        Sports Materials
+                    </span>
+
+                </div>
+
+                <div class="category-content">
+
+                    <div class="category-icon">
+                        <i class="fa-solid fa-volleyball"></i>
+                    </div>
+
+                    <h3>
+                        Sports Materials
+                    </h3>
+
+                    <p>
+                        Sports equipment and accessories for school,
+                        games, fitness and recreation.
+                    </p>
+
+                    <ul>
+                        <li>Cricket Equipment</li>
+                        <li>Football</li>
+                        <li>Volleyball</li>
+                        <li>Badminton Equipment</li>
+                        <li>Sports Accessories</li>
+                        <li>School Sports Materials</li>
+                        <li>Fitness & Games Equipment</li>
+                        <li>Other Sports Items</li>
+                    </ul>
+
+                    <a href="#contact" class="category-link">
+                        Ask About Products
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </a>
+
+                </div>
+
+            </article>
+
+        </div>
+
+        <div class="photo-note">
+
+            <i class="fa-solid fa-camera"></i>
+
+            <div>
+                <strong>Want to use your own shop photos?</strong>
+
+                <p>
+                    Later, place your photos inside the
+                    <code>images</code> folder and update the image
+                    paths in <code>index.html</code>. Instructions are
+                    provided below the code.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     FINANCE & EMI
+========================= -->
+
+<section class="finance-section">
+
+    <div class="container">
+
+        <div class="finance-box">
+
+            <div class="finance-icon">
+                <i class="fa-solid fa-credit-card"></i>
+            </div>
+
+            <div class="finance-content">
+
+                <span class="section-label light-label">
+                    EASY PAYMENT OPTIONS
+                </span>
+
+                <h2>
+                    Finance Facility Available
+                </h2>
+
+                <h3>
+                    NO COST EMI AVAILABLE
+                </h3>
+
+                <p>
+                    Ask our team about current finance and EMI options
+                    available for eligible products.
+                </p>
+
+                <div class="finance-points">
+
+                    <span>
+                        <i class="fa-solid fa-check"></i>
+                        Easy payment options
+                    </span>
+
+                    <span>
+                        <i class="fa-solid fa-check"></i>
+                        Finance facility available
+                    </span>
+
+                    <span>
+                        <i class="fa-solid fa-check"></i>
+                        Ask us about current offers
+                    </span>
+
+                    <span>
+                        <i class="fa-solid fa-circle-info"></i>
+                        Terms and eligibility may apply
+                    </span>
+
+                </div>
+
+                <a href="https://wa.me/919893602253"
+                   class="btn btn-light"
+                   target="_blank"
+                   rel="noopener noreferrer">
+
+                    <i class="fa-brands fa-whatsapp"></i>
+                    Ask About Finance
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     OFFERS
+========================= -->
+
+<section class="section offers-section" id="offers">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="section-label">
+                CURRENT UPDATES
+            </span>
+
+            <h2>
+                Special <span>Offers</span>
+            </h2>
+
+            <p>
+                Check with our shop for current offers and availability.
+                Offer details can be updated here whenever required.
+            </p>
+
+        </div>
+
+
+        <div class="offers-grid">
+
+            <article class="offer-card">
+
+                <div class="offer-number">
+                    01
+                </div>
+
+                <div class="offer-icon">
+                    <i class="fa-solid fa-tags"></i>
+                </div>
+
+                <h3>
+                    Special Offers
+                </h3>
+
+                <p>
+                    Ask us about current product offers and promotions.
+                </p>
+
+                <a href="#contact">
+                    Enquire Now
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </article>
+
+
+            <article class="offer-card featured-offer">
+
+                <div class="offer-number">
+                    02
+                </div>
+
+                <div class="offer-icon">
+                    <i class="fa-solid fa-calendar-days"></i>
+                </div>
+
+                <h3>
+                    Seasonal Deals
+                </h3>
+
+                <p>
+                    Seasonal product deals may be available.
+                    Contact us for current details.
+                </p>
+
+                <a href="#contact">
+                    Enquire Now
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </article>
+
+
+            <article class="offer-card">
+
+                <div class="offer-number">
+                    03
+                </div>
+
+                <div class="offer-icon">
+                    <i class="fa-solid fa-gift"></i>
+                </div>
+
+                <h3>
+                    Festival Offers
+                </h3>
+
+                <p>
+                    Check with us for festival-time offers and
+                    current product promotions.
+                </p>
+
+                <a href="#contact">
+                    Enquire Now
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </article>
+
+
+            <article class="offer-card">
+
+                <div class="offer-number">
+                    04
+                </div>
+
+                <div class="offer-icon">
+                    <i class="fa-solid fa-wallet"></i>
+                </div>
+
+                <h3>
+                    Easy Finance Options
+                </h3>
+
+                <p>
+                    Ask our team about available finance and
+                    No Cost EMI options.
+                </p>
+
+                <a href="#finance">
+                    View Finance
+                    <i class="fa-solid fa-arrow-right"></i>
+                </a>
+
+            </article>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     ABOUT
+========================= -->
+
+<section class="section about-section" id="about">
+
+    <div class="container about-grid">
+
+        <div class="about-visual">
+
+            <div class="about-main-card">
+
+                <div class="about-logo">
+                    SV
+                </div>
+
+                <h3>
+                    Shri Vishwakarma
+                    <br>
+                    Enterprises
+                </h3>
+
+                <p>
+                    Electronics • Stationery • Sports
+                </p>
+
+            </div>
+
+            <div class="about-small-card">
+                <i class="fa-solid fa-handshake"></i>
+                <span>
+                    Customer Focused
+                </span>
+            </div>
+
+        </div>
+
+
+        <div class="about-content">
+
+            <span class="section-label">
+                ABOUT OUR SHOP
+            </span>
+
+            <h2>
+                Your Local Shopping
+                <span>Destination</span>
+            </h2>
+
+            <p>
+                Shri Vishwakarma Enterprises is a local business serving
+                customers with a variety of electronics, home appliances,
+                stationery and sports materials.
+            </p>
+
+            <p>
+                Our aim is to make shopping convenient by offering
+                product variety, helpful guidance and customer support.
+                Customers can also ask about available finance facilities
+                and No Cost EMI options.
+            </p>
+
+
+            <div class="about-features">
+
+                <div>
+                    <i class="fa-solid fa-box-open"></i>
+                    <strong>Product Variety</strong>
+                    <span>Multiple product categories</span>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-user-check"></i>
+                    <strong>Helpful Guidance</strong>
+                    <span>Support for your shopping needs</span>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-credit-card"></i>
+                    <strong>Finance Facility</strong>
+                    <span>Ask about available options</span>
+                </div>
+
+                <div>
+                    <i class="fa-solid fa-location-dot"></i>
+                    <strong>Convenient Shopping</strong>
+                    <span>Visit our local shop</span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     WHY CHOOSE US
+========================= -->
+
+<section class="section why-section">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="section-label">
+                WHY SHOP WITH US
+            </span>
+
+            <h2>
+                Everything You Need,
+                <span>Under One Roof</span>
+            </h2>
+
+            <p>
+                A convenient local destination for electronics,
+                stationery and sports materials.
+            </p>
+
+        </div>
+
+
+        <div class="why-grid">
+
+            <div class="why-card">
+                <i class="fa-solid fa-layer-group"></i>
+                <h3>Wide Product Range</h3>
+                <p>
+                    Multiple categories for everyday shopping needs.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <i class="fa-solid fa-tv"></i>
+                <h3>Electronics & Appliances</h3>
+                <p>
+                    Explore electronics and home appliance options.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <i class="fa-solid fa-pen"></i>
+                <h3>Stationery Available</h3>
+                <p>
+                    School, office and creative stationery products.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <i class="fa-solid fa-futbol"></i>
+                <h3>Sports Materials</h3>
+                <p>
+                    Sports equipment and accessories for different needs.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <i class="fa-solid fa-credit-card"></i>
+                <h3>Finance Facility</h3>
+                <p>
+                    Ask us about available finance and EMI options.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <i class="fa-solid fa-headset"></i>
+                <h3>Customer Support</h3>
+                <p>
+                    Contact us for product information and assistance.
+                </p>
+            </div>
+
+            <div class="why-card">
+                <i class="fa-solid fa-shop"></i>
+                <h3>Convenient Shopping</h3>
+                <p>
+                    Visit our shop for your local shopping requirements.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     CONTACT
+========================= -->
+
+<section class="section contact-section" id="contact">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span class="section-label">
+                GET IN TOUCH
+            </span>
+
+            <h2>
+                Contact <span>Us</span>
+            </h2>
+
+            <p>
+                Have a product enquiry? Call, WhatsApp or email us.
+            </p>
+
+        </div>
+
+
+        <div class="contact-grid">
+
+
+            <!-- Contact Information -->
+
+            <div class="contact-info-card">
+
+                <div class="contact-brand">
+                    <span class="brand-logo large-logo">
+                        SV
+                    </span>
+
+                    <div>
+                        <h3>
+                            Shri Vishwakarma Enterprises
+                        </h3>
+
+                        <p>
+                            Electronics • Stationery • Sports Materials
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="contact-item">
+
+                    <div class="contact-item-icon">
+                        <i class="fa-solid fa-location-dot"></i>
+                    </div>
+
+                    <div>
+                        <span>Address</span>
+
+                        <p>
+                            Market Road, Jharkheda,
+                            Sehore, Bhopal, M.P., India
+                        </p>
+                    </div>
+
+                </div>
+
+
+                <div class="contact-item">
+
+                    <div class="contact-item-icon">
+                        <i class="fa-solid fa-phone"></i>
+                    </div>
+
+                    <div>
+                        <span>Phone</span>
+
+                        <a href="tel:+919893602253">
+                            +91 9893602253
+                        </a>
+                    </div>
+
+                </div>
+
+
+                <div class="contact-item">
+
+                    <div class="contact-item-icon">
+                        <i class="fa-brands fa-whatsapp"></i>
+                    </div>
+
+                    <div>
+                        <span>WhatsApp</span>
+
+                        <a href="https://wa.me/919893602253"
+                           target="_blank"
+                           rel="noopener noreferrer">
+
+                            +91 9893602253
+
+                        </a>
+                    </div>
+
+                </div>
+
+
+                <div class="contact-item">
+
+                    <div class="contact-item-icon">
+                        <i class="fa-solid fa-envelope"></i>
+                    </div>
+
+                    <div>
+                        <span>Email</span>
+
+                        <a href="mailto:vishwakarmakishore34@gmail.com">
+                            vishwakarmakishore34@gmail.com
+                        </a>
+                    </div>
+
+                </div>
+
+
+                <div class="contact-buttons">
+
+                    <a href="tel:+919893602253"
+                       class="btn btn-primary">
+                        <i class="fa-solid fa-phone"></i>
+                        CALL NOW
+                    </a>
+
+                    <a href="https://wa.me/919893602253"
+                       class="btn btn-whatsapp"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        <i class="fa-brands fa-whatsapp"></i>
+                        WHATSAPP
+                    </a>
+
+                    <a href="mailto:vishwakarmakishore34@gmail.com"
+                       class="btn btn-secondary">
+                        <i class="fa-solid fa-envelope"></i>
+                        EMAIL
+                    </a>
+
+                </div>
+
+            </div>
+
+
+            <!-- Map -->
+
+            <div class="map-card">
+
+                <div class="map-header">
+
+                    <div>
+                        <span class="section-label">
+                            FIND US
+                        </span>
+
+                        <h3>
+                            Visit Our Shop
+                        </h3>
+                    </div>
+
+                    <i class="fa-solid fa-map-location-dot"></i>
+
+                </div>
+
+
+                <div class="map-placeholder">
+
+                    <div class="map-pin">
+                        <i class="fa-solid fa-location-dot"></i>
+                    </div>
+
+                    <h4>
+                        Market Road, Jharkheda
+                    </h4>
+
+                    <p>
+                        Sehore, Bhopal, Madhya Pradesh
+                    </p>
+
+                    <span class="map-note">
+                        Replace the map link with your exact shop
+                        location when available.
+                    </span>
+
+                </div>
+
+
+                <!--
+                    GOOGLE MAPS LINK
+
+                    CURRENT PLACEHOLDER:
+                    This searches for the shop address.
+
+                    Replace the href below with your exact
+                    Google Maps link later.
+                -->
+
+                <a href="https://www.google.com/maps/search/?api=1&query=Market+Road+Jharkheda+Sehore+Madhya+Pradesh+India"
+                   class="btn btn-primary map-button"
+                   target="_blank"
+                   rel="noopener noreferrer">
+
+                    <i class="fa-solid fa-diamond-turn-right"></i>
+                    GET DIRECTIONS
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- =========================
+     CTA
+========================= -->
+
+<section class="cta-section">
+
+    <div class="container cta-content">
+
+        <div>
+
+            <span class="section-label light-label">
+                NEED HELP?
+            </span>
+
+            <h2>
+                Looking for a Product?
+            </h2>
+
+            <p>
+                Contact us on WhatsApp or call the shop to ask about
+                products and current availability.
+            </p>
+
+        </div>
+
+        <div class="cta-buttons">
+
+            <a href="https://wa.me/919893602253"
+               class="btn btn-light"
+               target="_blank"
+               rel="noopener noreferrer">
+
+                <i class="fa-brands fa-whatsapp"></i>
+                WhatsApp Us
+
+            </a>
+
+            <a href="tel:+919893602253"
+               class="btn btn-outline-light">
+
+                <i class="fa-solid fa-phone"></i>
+                Call Now
+
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+</main>
+
+
+<!-- =========================
+     FOOTER
+========================= -->
+
+<footer class="footer">
+
+    <div class="container footer-grid">
+
+
+        <div class="footer-about">
+
+            <a href="#home" class="brand footer-brand">
+
+                <span class="brand-logo">
+                    SV
+                </span>
+
+                <span class="brand-text">
+
+                    <strong>
+                        Shri Vishwakarma
+                    </strong>
+
+                    <small>
+                        Enterprises
+                    </small>
+
+                </span>
+
+            </a>
+
+            <p>
+                Electronics • Stationery • Sports Materials
+            </p>
+
+            <p class="footer-address">
+                Market Road, Jharkheda, Sehore,
+                Bhopal, M.P., India
+            </p>
+
+        </div>
+
+
+        <div class="footer-links">
+
+            <h4>
+                Quick Links
+            </h4>
+
+            <a href="#home">Home</a>
+            <a href="#products">Products</a>
+            <a href="#offers">Offers</a>
+            <a href="#about">About Us</a>
+            <a href="#contact">Contact</a>
+
+        </div>
+
+
+        <div class="footer-contact">
+
+            <h4>
+                Contact
+            </h4>
+
+            <a href="tel:+919893602253">
+                <i class="fa-solid fa-phone"></i>
+                +91 9893602253
+            </a>
+
+            <a href="mailto:vishwakarmakishore34@gmail.com">
+                <i class="fa-solid fa-envelope"></i>
+                vishwakarmakishore34@gmail.com
+            </a>
+
+            <a href="https://wa.me/919893602253"
+               target="_blank"
+               rel="noopener noreferrer">
+
+                <i class="fa-brands fa-whatsapp"></i>
+                WhatsApp Us
+
+            </a>
+
+        </div>
+
+    </div>
+
+
+    <div class="footer-bottom">
+
+        <div class="container">
+
+            <p>
+                © 2026 Shri Vishwakarma Enterprises.
+                All Rights Reserved.
+            </p>
+
+            <p>
+                Electronics • Stationery • Sports Materials
+            </p>
+
+        </div>
+
+    </div>
+
+</footer>
+
+
+<!-- =========================
+     FLOATING WHATSAPP
+========================= -->
+
+<a href="https://wa.me/919893602253"
+   class="floating-whatsapp"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Chat with us on WhatsApp"
+   title="Chat with us on WhatsApp">
+
+    <i class="fa-brands fa-whatsapp"></i>
+
+</a>
+
+
+<!-- =========================
+     BACK TO TOP
+========================= -->
+
+<button class="back-to-top"
+        id="backToTop"
+        aria-label="Back to top">
+
+    <i class="fa-solid fa-arrow-up"></i>
+
+</button>
+
+
+<!-- JavaScript -->
+<script src="script.js"></script>
+
+</body>
+</html>
